@@ -5,5 +5,5 @@ class Profile(models.Model):
     email = models.CharField(max_length = 100)
     password = models.CharField(max_length = 100)
 
-    def __str__(self):
+    def __str__(self):gfelj;fksh;gtdj,g dxykhtmxbn,fdnmgxkhyrk
             return self.name
