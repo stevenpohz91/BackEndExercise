@@ -1,0 +1,10 @@
+Django==1.11.5
+djangorestframework==3.6.4
+graphene==2.0.dev20170802065539
+graphql-core==2.0.dev20170801051721
+graphql-relay==0.4.5
+promise==2.1.dev0
+psycopg2==2.7.3.1
+pytz==2017.2
+six==1.11.0
+typing==3.6.2
